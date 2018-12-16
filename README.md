@@ -10,6 +10,6 @@ If you’re seeking new office space, new equipment for your business or even an
 
 mvn clean package -DskipTests
 
-## 3. Getting help 
+## 2. Getting help 
 
 Please contact sfa.alptekin@gmail.com
